@@ -156,6 +156,11 @@ Example:
 
 ---
 
+## 👨‍💻 About the Author
+Hey, I’m Nitish Gope — a Data Analyst. I break down complex data topics into simple, practical content that actually helps you land a job.
+
+---
+
 ## 🤝 Connect With Me
 
 - LinkedIn: [Nitish Gope](https://www.linkedin.com/in/nitish-gope-58370a236/)
