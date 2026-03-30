@@ -38,12 +38,12 @@ The dataset contains a table named `zepto` with the following columns:
 
 | Column Name | Description |
 |------------|------------|
-| sku_id | Unique product ID |
+| sku_id | Unique product ID (Synthetic Primary Key)|
 | category | Product category |
 | name | Product name |
 | mrp | Maximum Retail Price (₹) |
 | discountPercent | Discount % |
-| availableQuantity | Available stock |
+| availableQuantity | Units available in stock|
 | discountedSellingPrice | Selling price |
 | weightInGms | Weight in grams |
 | outOfStock | Stock status |
