@@ -2,7 +2,7 @@
 
 ## 🔗 Data Source & Context
 
-This project is inspired by real-world quick-commerce operations like **Zepto**, focusing on product pricing, discounts, inventory, and revenue analytics.
+This project is inspired by real-world quick-commerce operations like [Zepto][https://www.zeptonow.com/], focusing on product pricing, discounts, inventory, and revenue analytics.
 
 - 🛒 Zepto Platform: https://www.zeptonow.com/
 - 📊 Dataset Source (Kaggle): [Dataset](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset)
