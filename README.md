@@ -11,8 +11,7 @@ This project is inspired by real-world quick-commerce operations like [Zepto](ht
 ---
 
 ## 📌 Project Overview
-
-This project analyzes product-level e-commerce data using SQL to extract meaningful business insights.
+This project analyzes quick-commerce product data to uncover pricing inefficiencies, revenue opportunities, and inventory gaps using SQL.
 
 Key focus areas:
 - Pricing strategy  
@@ -121,21 +120,35 @@ Calculated total inventory weight for each category.
 
 ### 🏷️ Top Discounted Products
 ![Top Discounts](images/top_discounts.png)
+> Insight: Heavy discounts are used to drive sales volume and clear inventory.
 
 ---
 
 ### ❌ High-Value Out-of-Stock Products
 ![Out of Stock](images/out_of_stock.png)
-
+> Insight: Stockouts in high-MRP products represent direct revenue loss.
 ---
 
 ### 💰 Category-wise Revenue
 ![Revenue](images/revenue_by_category.png)
+> Insight: Grocery and packaged food categories contribute the highest share of revenue.
 
 ---
 
 ### 🎯 Best Discount Categories
 ![Best Discounts](images/best_discount_category.png)
+> Insight: Certain categories consistently offer higher discounts to remain competitive.
+---
+
+
+## 💡 Business Impact
+
+- Identifies high-discount products to boost sales strategy  
+- Highlights out-of-stock high-value items (potential revenue loss)  
+- Helps optimize pricing and discount strategies  
+- Supports category-level revenue planning  
+- Enables better inventory management using weight and demand insights
+
 
 ---
 
