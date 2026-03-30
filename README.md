@@ -117,6 +117,29 @@ Calculated total inventory weight for each category.
 
 ---
 
+## 📸 Sample Outputs
+
+### 🏷️ Top Discounted Products
+![Top Discounts](images/top_discounts.png)
+
+---
+
+### ❌ High-Value Out-of-Stock Products
+![Out of Stock](images/out_of_stock.png)
+
+---
+
+### 💰 Category-wise Revenue
+![Revenue](images/revenue_by_category.png)
+
+---
+
+### 🎯 Best Discount Categories
+![Best Discounts](images/best_discount_category.png)
+
+---
+
+
 ## 🧠 Key Learnings
 
 - Writing advanced SQL queries:
