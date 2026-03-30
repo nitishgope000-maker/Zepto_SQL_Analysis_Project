@@ -81,6 +81,57 @@ Products with:
 - Currently out of stock  
 
 ### 3. Category-wise Revenue
-Estimated using:
+Estimated total revenue using:
+
 ```sql
 SUM(discountedSellingPrice * availableQuantity)
+
+4. Premium Low-Discount Products
+
+Filtered products where:
+
+MRP > ₹500
+Discount < 10%
+5. Best Discount Categories
+
+Identified top 5 categories offering the highest average discount.
+
+6. Price Efficiency
+
+Calculated price per gram to determine best-value products.
+
+7. Product Segmentation
+
+Products categorized based on weight:
+
+Low weight (< 1kg)
+Medium weight (1kg–5kg)
+Bulk (> 5kg)
+8. Inventory Weight Analysis
+
+Calculated total inventory weight for each category.
+
+🧠 Key Learnings
+Writing advanced SQL queries:
+GROUP BY
+HAVING
+CASE WHEN
+Performing real-world data cleaning
+Extracting business insights from raw data
+Understanding e-commerce analytics
+
+🛠️ Tech Stack
+SQL (MySQL / PostgreSQL)
+MySQL Workbench / pgAdmin
+
+🚀 How to Run
+Create a database
+Import the SQL file
+Run queries
+SOURCE zepto_project.sql;
+
+📈 Future Improvements
+Build Power BI / Tableau dashboard
+Add Python (Pandas) analysis
+Perform time-series analysis
+Apply machine learning models
